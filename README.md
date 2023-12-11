@@ -55,7 +55,7 @@ The models are evaluated based on key metrics such as accuracy, precision, recal
 
 ## Results
 
-The project achieves remarkable accuracy in gender prediction, with EfficientNetB7 leading with an accuracy of 89.8%.
+The project demonstrates exceptional accuracy in gender prediction, with Xception achieving over 95%. This same model excels in face mask detection, boasting an impressive accuracy of 99.7%. Additionally, for glasses or no glasses classification, EfficientNetB7 emerges as the top performer, achieving an accuracy of 89.8%.
 
 ## Usage
 
